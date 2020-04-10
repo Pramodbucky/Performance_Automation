@@ -1,0 +1,8 @@
+process,date,time,duration,tag
+Catalog Search,06/21/2019,09:00,276.892982,Loading
+Save Product Fields,06/21/2019,09:00,0.049973,Loading
+Bulk Item Update Table Data Load,06/21/2019,10:00,68.494105,Loading
+Bulk Item Update Saving,06/21/2019,10:00,87.123276,Loading
+Job Time Calculation,06/21/2019,0::,1 minutes 33 seconds ,Running
+Job Time Calculation,06/21/2019,4:52:38,15 seconds ,Running
+Job Time Calculation,06/21/2019,4:52:41,47 seconds ,Running

@@ -1,0 +1,10 @@
+process,date,time,duration,tag
+Catalog Search,6/24/2019,14:00,65.510326,Loading
+Save Product Fields,6/24/2019,14:00,16.494971,Loading
+Catalog Search,6/24/2019,14:00,8.944027,Loading
+Product Load,6/24/2019,14:00,15.36921,Loading
+Save Product Fields,6/24/2019,14:00,23.90262,Loading
+Bulk Item Update Table Data Load,6/24/2019,14:00,56.071518,Loading
+Bulk Item Update Saving,6/24/2019,14:00,70.195069,Loading
+Advanced Search,6/24/2019,14:00,35.218047,Loading
+Bulk Item Save,6/24/2019,14:00,95.180637,Saving

@@ -1,0 +1,36 @@
+process,date,time,duration,tag
+Simple Search Test,08/02/2019,10:00,2019-08-02 10:27:08.569910,--
+Bulk Vendor Product Test,08/02/2019,10:00,2019-08-02 10:27:42.777507,--
+Bulk Item Update Test,08/02/2019,10:00,2019-08-02 10:27:54.230588,--
+Simple Search Test,08/02/2019,10:00,2019-08-02 10:45:47.284143,--
+Catalog Search,08/02/2019,10:00,12.877785,Loading
+Product Load,08/02/2019,10:00,8.612232,Loading
+Save Product Fields,08/02/2019,10:00,0.082954,Loading
+Bulk Vendor Product Test,08/02/2019,10:00,2019-08-02 10:47:10.656960,--
+Advanced Search,08/02/2019,10:00,8.574297,Loading
+Bulk Item Save,08/02/2019,10:00,15.647129,Saving
+Bulk Item Update Test,08/02/2019,10:00,2019-08-02 10:48:38.811067,--
+Bulk Item Update Table Data Load,08/02/2019,10:00,15.917363,Loading
+Bulk Item Update Saving,08/02/2019,10:00,20.383173,Loading
+Simple Search Test,08/02/2019,13:00,2019-08-02 13:39:55.296501,--
+Catalog Search,08/02/2019,13:00,12.864477,Loading
+Product Load,08/02/2019,13:00,11.789686,Loading
+Save Product Fields,08/02/2019,13:00,0.093953,Loading
+Bulk Vendor Product Test,08/02/2019,13:00,2019-08-02 13:41:23.127421,--
+Advanced Search,08/02/2019,13:00,6.542377,Loading
+Bulk Item Save,08/02/2019,13:00,16.896028,Saving
+Bulk Item Update Test,08/02/2019,13:00,2019-08-02 13:42:44.693330,--
+Bulk Item Update Table Data Load,08/02/2019,13:00,14.83048,Loading
+Bulk Item Update Saving,08/02/2019,13:00,21.138375,Loading
+Simple Search Test,08/02/2019,14:00,2019-08-02 14:28:22.415990,--
+Catalog Search,08/02/2019,14:00,12.816012,Loading
+Product Load,08/02/2019,14:00,7.668873,Loading
+Save Product Fields,08/02/2019,14:00,8.221541,Loading
+Bulk Vendor Product Test,08/02/2019,14:00,2019-08-02 14:29:45.975371,--
+Advanced Search,08/02/2019,14:00,7.77468,Loading
+Bulk Item Save,08/02/2019,14:00,15.79141,Saving
+Bulk Item Update Test,08/02/2019,14:00,2019-08-02 14:31:16.178093,--
+Bulk Item Update Table Data Load,08/02/2019,14:00,14.609873,Loading
+Bulk Item Update Test,08/02/2019,14:00,2019-08-02 14:35:17.391516,--
+Bulk Item Update Table Data Load,08/02/2019,14:00,14.777851,Loading
+Bulk Item Update Saving,08/02/2019,14:00,9.878684,Loading

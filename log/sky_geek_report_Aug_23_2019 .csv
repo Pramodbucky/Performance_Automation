@@ -1,0 +1,33 @@
+process,date,time,duration,tag
+Simple Search Test,8/23/2019,10:00,39:12.3,--
+Catalog Search,8/23/2019,10:00,2.773452,Loading
+Product Load,8/23/2019,10:00,9.899894,Loading
+Save Product Fields,8/23/2019,10:00,10.076529,Loading
+Bulk Vendor Product Test,8/23/2019,10:00,40:26.7,--
+Bulk Vendor Load,8/23/2019,10:00,6.842661,Loading
+Bulk Vendor Save,8/23/2019,10:00,15.961201,Saving
+Bulk Item Update Test,8/23/2019,10:00,41:41.4,--
+Bulk Item Update Table Data Load,8/23/2019,10:00,16.637758,Loading
+Bulk Item Update Saving,8/23/2019,10:00,11.494852,Loading
+,,,6.5,
+,,,4.3,
+Simple Search Test,8/23/2019,13:00,44:15.0,--
+Catalog Search,8/23/2019,13:00,2.70801,Loading
+Product Load,8/23/2019,13:00,8.375843,Loading
+Save Product Fields,8/23/2019,13:00,19.383712,Loading
+Bulk Vendor Product Test,8/23/2019,13:00,45:36.9,--
+Bulk Vendor Load,8/23/2019,13:00,8.48174,Loading
+Bulk Vendor Save,8/23/2019,13:00,18.857366,Saving
+Bulk Item Update Test,8/23/2019,13:00,47:21.2,--
+Bulk Item Update Table Data Load,8/23/2019,13:00,16.384286,Loading
+Bulk Item Update Saving,8/23/2019,13:00,11.9275,Loading
+Simple Search Test,8/23/2019,16:00,36:41.0,--
+Catalog Search,8/23/2019,16:00,2.744273,Loading
+Product Load,8/23/2019,16:00,7.609023,Loading
+Save Product Fields,8/23/2019,16:00,17.6381,Loading
+Bulk Vendor Product Test,8/23/2019,16:00,37:55.8,--
+Bulk Vendor Load,8/23/2019,16:00,7.331889,Loading
+Bulk Vendor Save,8/23/2019,16:00,17.502217,Saving
+Bulk Item Update Test,8/23/2019,16:00,39:12.0,--
+Bulk Item Update Table Data Load,8/23/2019,16:00,14.44996,Loading
+Bulk Item Update Saving,8/23/2019,16:00,12.341801,Loading

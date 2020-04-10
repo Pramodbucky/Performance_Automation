@@ -1,0 +1,24 @@
+process,date,time,duration,tag
+Advanced Search(BVP),06/07/2019,09:00,0.036978,Loading
+Advanced Search,06/07/2019,09:00,50.981547,Loading
+Bulk Item Save,06/07/2019,09:00,375.0168,Saving
+Catalog Search,06/07/2019,11:01:46:00,0.032051,Loading
+Catalog Search,06/07/2019,11:04:28:00,0.038008,Loading
+Catalog Search,06/07/2019,11:06:46:00,38.658207,Loading
+Bulk Item Update Table Data Load,06/07/2019,11:21:34:00,15.929118,Loading
+Bulk Item Update Saving,06/07/2019,11:25:40:00,159.348297,Loading
+Catalog Search,06/07/2019,11:39:29:00,54.491201,Loading
+Advanced Search(BVP),06/07/2019,11:41:18:00,107.122286,Loading
+Advanced Search,06/07/2019,11:41:18:00,55.507752,Loading
+Bulk Item Save,06/07/2019,11:41:18:00,463.605954,Saving
+Bulk Item Update Table Data Load,06/07/2019,11:55:09:00,13.796035,Loading
+Bulk Item Update Saving,06/07/2019,12:00:17:00,249.678128,Loading
+Catalog Search,06/07/2019,15:00,40.499557,Loading
+Advanced Search(BVP),06/07/2019,15:00,99.62476,Loading
+Advanced Search,06/07/2019,15:00,55.910117,Loading
+Bulk Item Save,06/07/2019,15:00,547.02382,Saving
+Bulk Item Update Table Data Load,06/07/2019,15:00,17.217207,Loading
+Bulk Item Update Saving,06/07/2019,15:00,197.579222,Loading
+Advanced Search(BVP),06/07/2019,15:00,93.499679,Loading
+Advanced Search,06/07/2019,15:00,66.559607,Loading
+Bulk Item Save,06/07/2019,15:00,838.086703,Saving

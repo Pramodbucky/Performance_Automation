@@ -1,0 +1,26 @@
+process,date,time,duration,tag
+Simple Search Test,9/6/2019,11:00,30:03.4,--
+Simple Search Test,9/6/2019,11:00,50:46.7,--
+Bulk Vendor Product Test,9/6/2019,11:00,52:41.7,--
+Advanced Search,9/6/2019,11:00,6.386781,Loading
+Bulk Item Save,9/6/2019,11:00,14.757569,Saving
+Bulk Item Update Test,9/6/2019,11:00,53:51.2,--
+Bulk Item Update Table Data Load,9/6/2019,11:00,14.885278,Loading
+Bulk Item Update Saving,9/6/2019,11:00,10.241207,Loading
+Simple Search Test,9/6/2019,13:00,50:50.8,--
+Bulk Vendor Product Test,9/6/2019,13:00,52:58.0,--
+Advanced Search,9/6/2019,13:00,6.941232,Loading
+Bulk Item Save,9/6/2019,13:00,15.965601,Saving
+Bulk Item Update Test,9/6/2019,13:00,54:57.1,--
+Bulk Item Update Table Data Load,9/6/2019,13:00,14.923936,Loading
+Bulk Item Update Saving,9/6/2019,13:00,10.211318,Loading
+Simple Search Test,9/6/2019,16:00,40:14.6,--
+Catalog Search,9/6/2019,16:00,2.733094,Loading
+Product Load,9/6/2019,16:00,7.502018,Loading
+Save Product Fields,9/6/2019,16:00,10.468557,Loading
+Bulk Vendor Product Test,9/6/2019,16:00,41:27.1,--
+Advanced Search,9/6/2019,16:00,6.51803,Loading
+Bulk Item Save,9/6/2019,16:00,14.949749,Saving
+Bulk Item Update Test,9/6/2019,16:00,42:38.2,--
+Bulk Item Update Table Data Load,9/6/2019,16:00,14.92786,Loading
+,,,7.2,

@@ -1,0 +1,14 @@
+process,date,time,duration,tag
+Bulk Vendor Product Test,08/30/2019,15:00,2019-08-30 15:57:49.076472,--
+Advanced Search,08/30/2019,15:00,6.763061,Loading
+Bulk Item Save,08/30/2019,15:00,14.618839,Saving
+Bulk Item Update Test,08/30/2019,15:00,2019-08-30 15:59:01.796985,--
+Bulk Item Update Table Data Load,08/30/2019,15:00,15.236064,Loading
+Bulk Item Update Saving,08/30/2019,16:00,10.116068,Loading
+Simple Search Test,08/30/2019,16:00,2019-08-30 16:03:14.405923,--
+Bulk Vendor Product Test,08/30/2019,16:00,2019-08-30 16:05:18.490201,--
+Advanced Search,08/30/2019,16:00,8.814198,Loading
+Bulk Item Save,08/30/2019,16:00,21.062973,Saving
+Bulk Item Update Test,08/30/2019,16:00,2019-08-30 16:06:43.789375,--
+Bulk Item Update Table Data Load,08/30/2019,16:00,15.112544,Loading
+Bulk Item Update Saving,08/30/2019,16:00,10.352605,Loading

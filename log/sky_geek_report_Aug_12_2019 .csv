@@ -1,0 +1,11 @@
+process,date,time,duration,tag
+Simple Search Test,08/12/2019,10:00,2019-08-12 10:26:30.542704,--
+Catalog Search,08/12/2019,10:00,8.474482,Loading
+Product Load,08/12/2019,10:00,24.338934,Loading
+Save Product Fields,08/12/2019,10:00,0.155921,Loading
+Bulk Vendor Product Test,08/12/2019,10:00,2019-08-12 10:28:49.524994,--
+Advanced Search,08/12/2019,10:00,17.130608,Loading
+Bulk Item Save,08/12/2019,10:00,39.784054,Saving
+Bulk Item Update Test,08/12/2019,10:00,2019-08-12 10:31:35.312648,--
+Bulk Item Update Table Data Load,08/12/2019,10:00,22.542682,Loading
+Bulk Item Update Saving,08/12/2019,10:00,47.443415,Loading

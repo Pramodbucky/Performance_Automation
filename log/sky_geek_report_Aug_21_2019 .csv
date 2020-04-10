@@ -1,0 +1,21 @@
+process,date,time,duration,tag
+Simple Search Test,8/21/2019,9:00,49:00.3,--
+Catalog Search,8/21/2019,9:00,12.742814,Loading
+Product Load,8/21/2019,9:00,16.67,Loading
+Save Product Fields,8/21/2019,9:00,19.97,Loading
+Bulk Vendor Product Test,8/21/2019,9:00,50:22.6,--
+Advanced Search,8/21/2019,9:00,8.209694,Loading
+Bulk Item Save,8/21/2019,9:00,15.319559,Saving
+Bulk Item Update Test,8/21/2019,9:00,52:21.1,--
+Bulk Item Update Table Data Load,8/21/2019,9:00,14.903684,Loading
+Bulk Item Update Saving,8/21/2019,9:00,10.705601,Loading
+Simple Search Test,8/21/2019,10:00,41:50.0,--
+Catalog Search,8/21/2019,10:00,2.997849,Loading
+Product Load,8/21/2019,10:00,16.866968,Loading
+Save Product Fields,8/21/2019,10:00,18.397727,Loading
+Bulk Vendor Product Test,8/21/2019,10:00,43:31.2,--
+Advanced Search,8/21/2019,10:00,7.501704,Loading
+Bulk Item Save,8/21/2019,10:00,14.608454,Saving
+Bulk Item Update Test,8/21/2019,10:00,44:42.6,--
+Bulk Item Update Table Data Load,8/21/2019,10:00,23.218347,Loading
+Bulk Item Update Saving,8/21/2019,10:00,12.286092,Loading
